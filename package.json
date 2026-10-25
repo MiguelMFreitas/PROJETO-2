@@ -1,0 +1,15 @@
+{
+  "name": "projeto-2",
+  "version": "1.0.0",
+  "description": "Aplicação Node.js com Express - Desenvolvimento de Software em Nuvem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
