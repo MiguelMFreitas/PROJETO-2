@@ -28,7 +28,7 @@ function pagina(titulo, conteudo) {
 
 // rota inicial
 app.get("/", function (req, res) {
-    res.send(pagina("Bem-vindo ao meu site!", "<p>Projeto 2 - Desenvolvimento de Software em Nuvem.</p>"));
+    res.send(pagina("Bem-vindo ao meu site do projeto2!", "<p>Projeto 2 - Desenvolvimento de Software em Nuvem.</p>"));
 });
 
 // rota da lista de produtos
